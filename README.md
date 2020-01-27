@@ -60,4 +60,3 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 [cordova-app]: http://github.com/apache/cordova-app-hello-world
 [bithound-img]: https://www.bithound.io/github/phonegap/phonegap-start/badges/score.svg
 [bithound-url]: https://www.bithound.io/github/phonegap/phonegap-start
-"# push-notification-cordova"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/tavaresaraujo/push-notification-cordova.git git push -u origin master
